@@ -1,0 +1,16 @@
+0) It is Fish: name - perch, weight - 145 grams; habitat - LAKE
+
+1) It is Bird: name - tit, weight - 155 grams, wintering - it is a migratory bird
+
+2) It is Fish: name - trout, weight - 500 grams; habitat - RIVER
+
+3) It is Bird: name - eagle, weight - 1500 grams, wintering - it is a migratory bird
+
+4) It is Fish: name - cod, weight - 2500 grams; habitat - RIVER
+
+5) It is Beast: name - wolf, weight - 40000 grams, type of nutrition - PREDATOR
+
+6) It is Beast: name - rhinoceros, weight - 100000 grams, type of nutrition - HERBIVORE
+
+7) It is Beast: name - lion, weight - 55000 grams, type of nutrition - PREDATOR
+

@@ -1,0 +1,5 @@
+1 sparrow 150 0
+0 shark 23500 1
+1 parrot 200 0
+2 deer 30000 1
+0 whale 1000000 0

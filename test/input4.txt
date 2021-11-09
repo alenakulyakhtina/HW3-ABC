@@ -1,0 +1,6 @@
+2 tiger 40000 0
+0 catfish 1000 0
+1 raven 1500 0
+2 hyena 20000 0
+2 donkey 15000 1
+2 pig 22000 1
